@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+*.amltmp
+*.amlignore
+.ipynb_aml_checkpoints
+__pycache__
